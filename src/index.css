@@ -87,7 +87,7 @@ width: 100px;
 background: whitesmoke;
 border-radius: 10px;
 opacity: 60%;
-
+border: 0;
 }
 .numbertext1{
   color: #b1b1b1;

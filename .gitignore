@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+ .env
+ env
+urll = "https://api.openweathermap.org/data/2.5/weather?lat=${lati}&lon=${long}&appid=31fe60a104e32be3553f171cf4fc0053"
